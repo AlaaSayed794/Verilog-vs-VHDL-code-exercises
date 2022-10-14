@@ -5,7 +5,7 @@ entity Switches_to_LEDs is
 port(
     i1 : in std_logic;
     i2 : in std_logic;
-    i2 : in std_logic;
+    i3 : in std_logic;
     o1 : out std_logic;
     o2 : out std_logic;
     o3 : out std_logic;
